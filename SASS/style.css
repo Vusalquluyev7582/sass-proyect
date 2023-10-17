@@ -1,0 +1,2299 @@
+@import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&family=Heebo:wght@500&family=Oswald:wght@400;500&family=Roboto&family=Tilt+Prism&family=Ubuntu:wght@700&display=swap");
+
+body {
+  width: 99%;
+  height: auto;
+}
+
+body header {
+  width: 100%;
+  height: 81px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+}
+
+body header h2 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  line-height: 110px;
+  margin-left: 50px;
+  font-size: 22px;
+  font-weight: 700px;
+  color: #000;
+}
+
+body header div {
+  margin-right: 35px;
+}
+
+body header div a {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  text-decoration: none;
+  list-style: none;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 112.5px;
+  padding-left: 37px;
+  margin-right: 8px;
+  color: #000;
+}
+
+body header div img {
+  width: 12.38px;
+  height: 11px;
+  padding-right: 50px;
+}
+
+body .main {
+  width: 100%;
+  height: 685px;
+  display: flex;
+}
+
+body .main .left-side {
+  width: 715px;
+  height: 635px;
+  margin: 20px 0px 0px 40px;
+}
+
+body .main .left-side h1 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  letter-spacing: 2px;
+  font-size: 72px;
+  line-height: 88px;
+  font-weight: 700px;
+  margin: 100px 0px 30px 0px;
+}
+
+body .main .left-side h1 span {
+  color: #FF8A56;
+}
+
+body .main .left-side p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 22px;
+  font-weight: 400px;
+  line-height: 33px;
+  margin-bottom: 30px;
+  color: #666666;
+}
+
+body .main .left-side .call {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  width: 151px;
+  height: 58px;
+  font-size: 18px;
+  line-height: 18px;
+  color: #fff;
+  background-color: #000;
+}
+
+body .main .left-side .cv {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  width: 151px;
+  height: 58px;
+  color: #000;
+  background-color: #fff;
+  border: 1px solid #fff;
+  font-size: 18px;
+  font-weight: 400px;
+  line-height: 18px;
+}
+
+body .main .right-side {
+  width: 500px;
+  height: 595px;
+  margin-top: 70px;
+}
+
+body .main-two {
+  width: 862px;
+  height: 251.73px;
+  margin: 0 auto;
+}
+
+body .main-two h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+  font-weight: 400px;
+  font-size: 18px;
+  line-height: 140px;
+}
+
+body .main-two img {
+  padding-bottom: 200px;
+}
+
+body .services {
+  width: 1098px;
+  height: 760px;
+  margin: 0 auto;
+}
+
+body .services .services-head {
+  width: 810px;
+  height: 272px;
+  margin: 80px auto 0px auto;
+}
+
+body .services .services-head h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 4px;
+  font-weight: 700px;
+  margin-bottom: 20px;
+  color: #FF5E69;
+}
+
+body .services .services-head pre {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #000;
+  font-size: 54px;
+  line-height: 59.4px;
+  letter-spacing: 1px;
+  font-weight: 700px;
+  text-align: center;
+}
+
+body .services .services-cards {
+  display: flex;
+  justify-content: space-evenly;
+  width: 1098px;
+  height: 345px;
+  margin: 0 auto;
+}
+
+body .services .services-cards .services-one {
+  width: 330px;
+  height: 345px;
+  position: relative;
+}
+
+body .services .services-cards .services-one .img {
+  width: 70px;
+  height: 70px;
+  color: #000;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+body .services .services-cards .services-one h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #000;
+  font-size: 24px;
+  line-height: 26.4px;
+  font-weight: 700px;
+  margin: 30px 0px 25px 0px;
+}
+
+body .services .services-cards .services-one p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #666666;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 28px;
+}
+
+body .services .services-cards .services-one ul {
+  position: absolute;
+  left: -23.5px;
+}
+
+body .services .services-cards .services-one ul li {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #000;
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 700px;
+  list-style-type: square;
+  color: #000;
+}
+
+body .services .services-cards .services-two {
+  width: 330px;
+  height: 345px;
+  float: left;
+  position: relative;
+  margin-left: 50px;
+}
+
+body .services .services-cards .services-two img {
+  width: 70px;
+  height: 70px;
+  color: #000;
+}
+
+body .services .services-cards .services-two h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #000;
+  font-size: 20px;
+  line-height: 26.4px;
+  font-weight: 700px;
+  margin: 30px 0px 25px 0px;
+}
+
+body .services .services-cards .services-two p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #666666;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 28px;
+  clear: both;
+}
+
+body .services .services-cards .services-two ul {
+  position: absolute;
+  left: -23.5px;
+  right: 70.5px;
+  margin-top: 20px;
+}
+
+body .services .services-cards .services-two ul li {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #000;
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 700px;
+  list-style-type: square;
+}
+
+body .services .services-cards .services-three {
+  width: 330px;
+  height: 345px;
+  margin-left: 50px;
+  position: relative;
+}
+
+body .services .services-cards .services-three img {
+  width: 70px;
+  height: 70px;
+  color: #000;
+}
+
+body .services .services-cards .services-three h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #000;
+  font-size: 24px;
+  line-height: 26.4px;
+  font-weight: 700px;
+  margin: 30px 0px 25px 0px;
+}
+
+body .services .services-cards .services-three p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #666666;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 28px;
+  clear: both;
+}
+
+body .services .services-cards .services-three ul {
+  position: absolute;
+  left: -23px;
+  right: -1px;
+}
+
+body .services .services-cards .services-three ul li {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  color: #000;
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 700px;
+  list-style-type: square;
+}
+
+body .imgs {
+  width: 1200px;
+  height: 735px;
+  position: relative;
+  margin: 0 auto;
+}
+
+body .imgs .projects {
+  width: 1215px;
+  height: 242px;
+  position: relative;
+  margin: 0px 50px 50px auto;
+}
+
+body .imgs .projects button {
+  width: 201px;
+  height: 58px;
+  color: #fff;
+  background-color: #000;
+  position: absolute;
+  right: 50px;
+  top: 132px;
+}
+
+body .imgs .projects div {
+  width: 555px;
+  height: 165px;
+  margin-top: 73px;
+  position: absolute;
+  left: 0px;
+}
+
+body .imgs .projects div h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 4px;
+  font-weight: 700px;
+  color: #B16CEA;
+  margin-bottom: 20px;
+}
+
+body .imgs .projects div h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 54px;
+  line-height: 59.4px;
+  font-weight: 700px;
+  letter-spacing: 1px;
+  color: #000;
+}
+
+body .imgs .cards {
+  width: 1180px;
+  height: 490px;
+  display: flex;
+  justify-content: space-between;
+}
+
+body .imgs .cards .card-one {
+  width: 420px;
+  height: 380px;
+  position: relative;
+  margin-right: 25px;
+  background-color: #fff;
+}
+
+body .imgs .cards .card-one img {
+  width: 380px;
+  height: 250px;
+  position: absolute;
+  top: -5px;
+}
+
+body .imgs .cards .card-one h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: 4px;
+  color: #3C46FF;
+  margin: 0px 0px 20px 20px;
+  position: absolute;
+  bottom: 80px;
+}
+
+body .imgs .cards .card-one h4 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 26px;
+  color: #000;
+  margin: 0px 0px 20px 20px;
+  position: absolute;
+  bottom: 40px;
+}
+
+body .imgs .cards .card-one h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  float: left;
+  margin: 0px 10px 0px 20px;
+  position: absolute;
+  bottom: 30px;
+}
+
+body .imgs .cards .card-one .icon {
+  width: 14.29px;
+  height: 13.89px;
+  padding-top: 3px;
+  position: absolute;
+  top: 334px;
+  left: 145px;
+}
+
+body .imgs .cards .card-two {
+  width: 420px;
+  height: 380px;
+  position: relative;
+  margin-right: 25px;
+  background-color: #fff;
+}
+
+body .imgs .cards .card-two img {
+  width: 380px;
+  height: 250px;
+  margin-bottom: 20px;
+  position: absolute;
+  top: -5px;
+}
+
+body .imgs .cards .card-two h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: 4px;
+  color: #3C46FF;
+  margin: 0px 0px 20px 20px;
+  position: absolute;
+  bottom: 80px;
+}
+
+body .imgs .cards .card-two h4 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 26px;
+  color: #000;
+  margin: 0px 0px 20px 20px;
+  position: absolute;
+  bottom: 40px;
+}
+
+body .imgs .cards .card-two h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  float: left;
+  margin: 0px 10px 0px 20px;
+  position: absolute;
+  bottom: 30px;
+}
+
+body .imgs .cards .card-two .icon {
+  width: 14.29px;
+  height: 13.89px;
+  padding-top: 3px;
+  position: absolute;
+  top: 334px;
+  left: 145px;
+}
+
+body .imgs .cards .card-three {
+  width: 399px;
+  height: 380px;
+  margin-left: 10px;
+  position: relative;
+  background-color: #fff;
+}
+
+body .imgs .cards .card-three img {
+  width: 480px;
+  height: 240px;
+  margin-bottom: 20px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body .imgs .cards .card-three h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: 4px;
+  color: #3C46FF;
+  margin: 0px 0px 20px 20px;
+  position: absolute;
+  bottom: 80px;
+}
+
+body .imgs .cards .card-three h4 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 26px;
+  color: #000;
+  margin: 0px 0px 20px 20px;
+  position: absolute;
+  bottom: 40px;
+}
+
+body .imgs .cards .card-three h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  float: left;
+  margin: 0px 10px 0px 20px;
+  position: absolute;
+  bottom: 30px;
+}
+
+body .imgs .cards .card-three .icon {
+  width: 14.29px;
+  height: 13.89px;
+  padding-top: 3px;
+  position: absolute;
+  top: 334px;
+  left: 145px;
+}
+
+body .latest-blog {
+  width: 100%;
+  height: 1500px;
+  margin-top: -197px;
+  background-color: #000;
+}
+
+body .latest-blog .projects-data {
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+}
+
+body .latest-blog .projects-data .arrow-left {
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  right: 300px;
+  top: 190px;
+  background-color: #fff;
+}
+
+body .latest-blog .projects-data .arrow-right {
+  width: 54px;
+  height: 54px;
+  position: absolute;
+  right: 240px;
+  top: 190px;
+  background-color: #fff;
+}
+
+body .latest-blog .projects-data .projects-left {
+  width: 449.5px;
+  height: 293px;
+  margin: 300px 0px 0px 10px;
+  position: relative;
+}
+
+body .latest-blog .projects-data .projects-left h4 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 4px;
+  padding-bottom: 20px;
+  color: #FFA84B;
+}
+
+body .latest-blog .projects-data .projects-left h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 54px;
+  font-weight: 700px;
+  line-height: 59.4px;
+  letter-spacing: 1px;
+  padding-bottom: 30px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-left h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  font-weight: 700px;
+  line-height: 18px;
+  color: #fff;
+  float: left;
+}
+
+body .latest-blog .projects-data .projects-left img {
+  width: 13.33px;
+  height: 12.96px;
+  padding: 5px 0px 0px 15px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right {
+  width: 652px;
+  height: 1014px;
+  margin: 340px 40px 0px 0px;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-one {
+  width: 652px;
+  height: 185px;
+  border-bottom: 1px solid #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-one h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 15px;
+  line-height: 16px;
+  font-weight: 700px;
+  color: rgba(255, 255, 255, 0.6980392157);
+}
+
+body .latest-blog .projects-data .projects-right .right-div-one h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700px;
+  padding-top: 20px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-one h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700px;
+  padding-top: 20px;
+  float: left;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-one img {
+  width: 13.33px;
+  height: 12.96px;
+  padding: 25px 0px 0px 15px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-two {
+  width: 652px;
+  height: 185px;
+  padding-top: 50px;
+  border-bottom: 1px solid #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-two h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 15px;
+  line-height: 16px;
+  font-weight: 700px;
+  color: rgba(255, 255, 255, 0.6980392157);
+}
+
+body .latest-blog .projects-data .projects-right .right-div-two h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700px;
+  padding-top: 20px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-two h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700px;
+  padding-top: 20px;
+  float: left;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-two img {
+  width: 13.33px;
+  height: 12.96px;
+  padding: 25px 0px 0px 15px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-three {
+  width: 652px;
+  height: 145px;
+  padding-top: 50px;
+  border-bottom: 1px solid #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-three h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 15px;
+  line-height: 16px;
+  font-weight: 700px;
+  color: rgba(255, 255, 255, 0.6980392157);
+}
+
+body .latest-blog .projects-data .projects-right .right-div-three h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700px;
+  padding-top: 20px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-three h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700px;
+  padding-top: 20px;
+  float: left;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-three img {
+  width: 13.33px;
+  height: 12.96px;
+  padding: 25px 0px 0px 15px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-four {
+  width: 652px;
+  height: 145px;
+  padding-top: 50px;
+  border-bottom: 1px solid #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-four h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 15px;
+  line-height: 16px;
+  font-weight: 700px;
+  color: rgba(255, 255, 255, 0.6980392157);
+}
+
+body .latest-blog .projects-data .projects-right .right-div-four h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700px;
+  padding-top: 20px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-four h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700px;
+  padding-top: 20px;
+  float: left;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-four img {
+  width: 13.33px;
+  height: 12.96px;
+  padding: 25px 0px 0px 15px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-five {
+  width: 652px;
+  height: 145px;
+  padding-top: 50px;
+  border-bottom: 1px solid #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-five h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 15px;
+  line-height: 16px;
+  font-weight: 700px;
+  color: rgba(255, 255, 255, 0.6980392157);
+}
+
+body .latest-blog .projects-data .projects-right .right-div-five h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 28px;
+  line-height: 36px;
+  font-weight: 700px;
+  padding-top: 20px;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-five h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 700px;
+  padding-top: 20px;
+  float: left;
+  color: #fff;
+}
+
+body .latest-blog .projects-data .projects-right .right-div-five img {
+  width: 13.33px;
+  height: 12.96px;
+  padding: 25px 0px 0px 15px;
+  color: #fff;
+}
+
+body .product-designer {
+  width: 1340px;
+  height: 950px;
+  margin-top: 80px;
+}
+
+body .product-designer div {
+  width: 1100px;
+  height: 250px;
+  margin: 0 auto;
+  padding-top: 70px;
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+}
+
+body .product-designer div span {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 22px;
+  font-weight: 700px;
+  line-height: 22px;
+  letter-spacing: 4px;
+  position: absolute;
+  top: 60px;
+  color: #FF5E69;
+}
+
+body .product-designer div h4 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 54px;
+  font-weight: 700px;
+  line-height: 59.4px;
+  letter-spacing: 1px;
+  color: #000;
+  margin-right: 150px;
+  padding-top: 20px;
+}
+
+body .product-designer div p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 22px;
+  font-weight: 400px;
+  line-height: 40px;
+  color: #666666;
+}
+
+body .product-designer .designer-imgs {
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+}
+
+body .product-designer .designer-imgs .designer-img-one {
+  width: 300px;
+  height: 485px;
+  top: -70px;
+  left: -400px;
+}
+
+body .product-designer .designer-imgs .designer-img-one img {
+  height: 555px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+body .product-designer .designer-imgs .designer-img-two {
+  width: 450px;
+  height: 485px;
+  position: absolute;
+  top: 0px;
+  left: 320px;
+}
+
+body .product-designer .designer-imgs .designer-img-two img {
+  width: 450px;
+  position: absolute;
+  top: 0px;
+}
+
+body .product-designer .designer-imgs .designer-img-three {
+  width: 306px;
+  height: 203px;
+  justify-content: flex-end;
+  align-self: flex-end;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body .product-designer .designer-imgs .designer-img-three img {
+  width: 306px;
+  height: 352px;
+  position: absolute;
+  top: -39px;
+}
+
+body .product-designer .designer-imgs .designer-img-four {
+  width: 306px;
+  height: 202px;
+  position: absolute;
+  top: 284px;
+  right: 0px;
+}
+
+body .product-designer .designer-imgs .designer-img-four img {
+  width: 306px;
+  height: 310px;
+  position: absolute;
+  top: -19px;
+}
+
+body .education-work-experience {
+  width: 1330px;
+  height: 600px;
+  position: absolute;
+  top: auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+body .education-work-experience .education {
+  width: 540.19px;
+  height: 540px;
+  margin-left: 60px;
+}
+
+body .education-work-experience .education h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 36px;
+  font-weight: 400px;
+  line-height: 36px;
+  margin-bottom: 60px;
+  color: #000;
+}
+
+body .education-work-experience .education .stanford {
+  width: 540.19px;
+  height: 100px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+body .education-work-experience .education .stanford h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 700px;
+  line-height: 26px;
+  padding-bottom: 10px;
+  color: #000;
+}
+
+body .education-work-experience .education .stanford p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+body .education-work-experience .education .stanford img {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+body .education-work-experience .education .stanford .education-history {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  position: absolute;
+  top: 35px;
+  right: 60px;
+}
+
+body .education-work-experience .education .mit {
+  width: 540.19px;
+  height: 100px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+body .education-work-experience .education .mit h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 700px;
+  line-height: 26px;
+  padding-bottom: 10px;
+  color: #000;
+}
+
+body .education-work-experience .education .mit p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+body .education-work-experience .education .mit img {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+body .education-work-experience .education .mit .mit-history {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  position: absolute;
+  top: 35px;
+  right: 60px;
+}
+
+body .education-work-experience .education .california-state {
+  width: 540.19px;
+  height: 100px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+body .education-work-experience .education .california-state h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 700px;
+  line-height: 26px;
+  padding-bottom: 10px;
+  color: #000;
+}
+
+body .education-work-experience .education .california-state p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+body .education-work-experience .education .california-state img {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+body .education-work-experience .education .california-state .california-state-history {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  position: absolute;
+  top: 35px;
+  right: 60px;
+}
+
+body .education-work-experience .work-experience {
+  width: 520.19px;
+  height: 540px;
+  margin-right: 50px;
+}
+
+body .education-work-experience .work-experience h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 36px;
+  font-weight: 400px;
+  line-height: 36px;
+  color: #000;
+  margin-bottom: 60px;
+}
+
+body .education-work-experience .work-experience .space {
+  width: 520.19px;
+  height: 100px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+body .education-work-experience .work-experience .space .work-space-img {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+body .education-work-experience .work-experience .space h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 700px;
+  line-height: 26px;
+  padding: 0px 0px 10px 70px;
+  color: #000;
+}
+
+body .education-work-experience .work-experience .space p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  padding: 0px 0px 10px 70px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+body .education-work-experience .work-experience .space img {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+body .education-work-experience .work-experience .space .work-history {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  position: absolute;
+  top: 35px;
+  right: 60px;
+}
+
+body .education-work-experience .work-experience .music {
+  width: 520.19px;
+  height: 100px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+body .education-work-experience .work-experience .music .work-music-img {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+body .education-work-experience .work-experience .music h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 700px;
+  line-height: 26px;
+  padding: 0px 0px 10px 70px;
+  color: #000;
+}
+
+body .education-work-experience .work-experience .music p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  padding: 0px 0px 10px 70px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+body .education-work-experience .work-experience .music img {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+body .education-work-experience .work-experience .music .work-history {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  position: absolute;
+  top: 35px;
+  right: 60px;
+}
+
+body .education-work-experience .work-experience .kingdom {
+  width: 520.19px;
+  height: 100px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+body .education-work-experience .work-experience .kingdom .work-kingdom-img {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+body .education-work-experience .work-experience .kingdom h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 700px;
+  line-height: 21px;
+  padding: 0px 0px 10px 70px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+body .education-work-experience .work-experience .kingdom p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  padding: 0px 0px 10px 70px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+body .education-work-experience .work-experience .kingdom img {
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+body .education-work-experience .work-experience .kingdom .work-history {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  position: absolute;
+  top: 35px;
+  right: 60px;
+}
+
+body .testimonials {
+  width: 1340px;
+  height: 740px;
+  margin-top: 600px;
+}
+
+body .testimonials h4 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 22px;
+  font-weight: 700px;
+  line-height: 22px;
+  letter-spacing: 4px;
+  padding: 50px 0px 0px 100px;
+  color: #4353FF;
+}
+
+body .testimonials h2 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 54px;
+  font-weight: 700px;
+  line-height: 59px;
+  letter-spacing: 1px;
+  padding: 20px 0px 0px 100px;
+  margin-bottom: 80px;
+  color: #000;
+}
+
+body .testimonials .testimonials-container {
+  width: 1340px;
+  height: 450px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+body .testimonials .testimonials-container .testimonials-left {
+  width: 485px;
+  height: 450px;
+  margin-left: 100px;
+}
+
+body .testimonials .testimonials-container .testimonials-right {
+  width: 610px;
+  height: 420px;
+  margin: 30px 70px 0px 0px;
+}
+
+body .testimonials .testimonials-container .testimonials-right h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 36px;
+  font-weight: 700px;
+  line-height: 47px;
+  margin-top: 20px;
+  color: #000;
+}
+
+body .testimonials .testimonials-container .testimonials-right h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  font-weight: 700px;
+  line-height: 20px;
+  position: absolute;
+  bottom: 30px;
+  color: #000;
+}
+
+body .testimonials .testimonials-container .testimonials-right p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  font-weight: 400px;
+  line-height: 18px;
+  position: absolute;
+  bottom: 5px;
+  color: #000;
+}
+
+body .testimonials .testimonials-container .testimonials-right .testimonials-left-arrow {
+  width: 54px;
+  height: 34px;
+  position: absolute;
+  bottom: 0px;
+  right: 105px;
+  color: #fff;
+  background-color: #000;
+}
+
+body .testimonials .testimonials-container .testimonials-right .testimonials-right-arrow {
+  width: 54px;
+  height: 34px;
+  position: absolute;
+  bottom: 0px;
+  right: 70px;
+  color: #fff;
+  background-color: #000;
+}
+
+body .faq {
+  width: 1340px;
+  height: 811px;
+  position: absolute;
+  top: auto;
+  left: 0px;
+  background-color: #000;
+}
+
+body .faq .faq-header {
+  width: 1215px;
+  height: 105px;
+  margin: 0 auto;
+  padding-top: 80px;
+  background-color: #000;
+}
+
+body .faq .faq-header h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 22px;
+  font-weight: 700px;
+  line-height: 22px;
+  letter-spacing: 4px;
+  text-align: center;
+  padding-bottom: 20px;
+  color: #FF8A56;
+}
+
+body .faq .faq-header h4 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 54px;
+  font-weight: 700px;
+  line-height: 59px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #fff;
+}
+
+body .faq .faq-left-and-right-side {
+  width: 1340px;
+  height: 542px;
+  margin-top: 80px;
+}
+
+body .faq .faq-left-and-right-side .left-side {
+  width: 590px;
+  height: 482px;
+  float: left;
+  margin-left: 60px;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-one {
+  width: 590px;
+  height: 82px;
+  border-bottom: 1px solid #fff;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-one h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  font-weight: 700px;
+  line-height: 31px;
+  letter-spacing: 0.3000000119px;
+  color: #fff;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-one img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-two {
+  width: 590px;
+  height: 82px;
+  border-bottom: 1px solid #fff;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-two h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  font-weight: 700px;
+  line-height: 31px;
+  letter-spacing: 0.3000000119px;
+  color: #fff;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-two img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-three {
+  width: 590px;
+  height: 82px;
+  border-bottom: 1px solid #fff;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-three h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  font-weight: 700px;
+  line-height: 31px;
+  letter-spacing: 0.3000000119px;
+  color: #fff;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-three img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-four {
+  width: 590px;
+  height: 82px;
+  border-bottom: 1px solid #fff;
+  position: relative;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-four h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  font-weight: 700px;
+  line-height: 31px;
+  letter-spacing: 0.3000000119px;
+  color: #fff;
+}
+
+body .faq .faq-left-and-right-side .left-side .left-side-div-four img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body .faq .faq-left-and-right-side .right-side {
+  width: 590px;
+  height: 428px;
+  float: right;
+  margin-right: 60px;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-one {
+  width: 590px;
+  height: 82px;
+  border-bottom: 1px solid #fff;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-one h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  font-weight: 700px;
+  line-height: 31px;
+  letter-spacing: 0.3000000119px;
+  color: #fff;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-one img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-two {
+  width: 590px;
+  height: 82px;
+  border-bottom: 1px solid #fff;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-two h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  font-weight: 700px;
+  line-height: 31px;
+  letter-spacing: 0.3000000119px;
+  color: #fff;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-two img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-three {
+  width: 590px;
+  height: 82px;
+  border-bottom: 1px solid #fff;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-three h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  font-weight: 700px;
+  line-height: 31px;
+  letter-spacing: 0.3000000119px;
+  color: #fff;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-three img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-four {
+  width: 590px;
+  height: 82px;
+  border-bottom: 1px solid #fff;
+  position: relative;
+  margin-bottom: 40px;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-four h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 23px;
+  font-weight: 700px;
+  line-height: 31px;
+  letter-spacing: 0.3000000119px;
+  color: #fff;
+}
+
+body .faq .faq-left-and-right-side .right-side .right-side-div-four img {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+body footer {
+  width: 1340px;
+  height: 719px;
+  position: absolute;
+  top: 7076px;
+  bottom: auto;
+  left: 0px;
+  background-color: #000;
+}
+
+body footer .information {
+  width: 1215px;
+  height: 719px;
+  margin: 0 auto;
+  position: relative;
+}
+
+body footer .information h2 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 54px;
+  font-weight: 700px;
+  line-height: 59px;
+  letter-spacing: 1px;
+  padding-top: 200px;
+  color: #fff;
+}
+
+body footer .information h3 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 54px;
+  font-weight: 700px;
+  line-height: 59px;
+  letter-spacing: 0.5px;
+  padding-top: 10px;
+  margin-bottom: 70px;
+  color: #3C46FF;
+}
+
+body footer .information .footer-left-side {
+  width: 375px;
+  height: 146px;
+}
+
+body footer .information .footer-left-side h4 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 24px;
+  font-weight: 700px;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+body footer .information .footer-left-side p {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 28px;
+  margin-bottom: 15px;
+  color: #666666;
+}
+
+body footer .information .footer-left-side img {
+  width: 29.63px;
+  height: 21px;
+}
+
+body footer .information .footer-left-side a {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 17px;
+  font-weight: 400px;
+  line-height: 36px;
+  text-decoration: none;
+  color: #5C5C5C;
+}
+
+body footer .information .footer-right-side {
+  width: 375px;
+  height: 146px;
+  float: right;
+  position: absolute;
+  bottom: 175px;
+  right: 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+body footer .information .footer-right-side .right-side-one-elements h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  font-weight: 700px;
+  line-height: 18px;
+  padding-bottom: 45px;
+  color: #fff;
+}
+
+body footer .information .footer-right-side .right-side-two-elements h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  font-weight: 700px;
+  line-height: 18px;
+  padding-bottom: 45px;
+  color: #fff;
+}
+
+body footer .information .footer-right-side .right-side-three-elements h5 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  font-weight: 700px;
+  line-height: 18px;
+  padding-bottom: 45px;
+  color: #fff;
+}
+
+body footer h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 22px;
+  position: absolute;
+  bottom: 0px;
+  color: #8A95AD;
+}
+
+body footer .sumit {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 21px;
+  position: absolute;
+  bottom: 0px;
+  left: 180px;
+  color: #8A95AD;
+}
+
+body footer .powered {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400px;
+  line-height: 22px;
+  position: absolute;
+  bottom: 0px;
+  left: 300px;
+  color: #8A95AD;
+}
+
+body footer .webflow {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #8A95AD;
+  position: absolute;
+  bottom: 0px;
+  left: 415px;
+}
+
+body footer .license {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #8A95AD;
+  position: absolute;
+  bottom: 0px;
+  left: 500px;
+}
+
+body footer .instructions {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #8A95AD;
+  position: absolute;
+  bottom: 0px;
+  right: 440px;
+}
+
+body footer .changelog {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #8A95AD;
+  position: absolute;
+  bottom: 0px;
+  right: 330px;
+}
+
+body footer .style-guide {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-family: "Heebo", sans-serif;
+  font-family: "Oswald", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Tilt Prism", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #8A95AD;
+  position: absolute;
+  bottom: 0px;
+  right: 215px;
+}
+
+/*# sourceMappingURL=style.css.map */
